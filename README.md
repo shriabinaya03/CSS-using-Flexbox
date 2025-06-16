@@ -4,10 +4,6 @@ A clean and responsive static web page built using HTML and CSS Flexbox. The pro
 
 A simple, elegant restaurant menu webpage designed using **HTML** and **CSS Flexbox**. This project displays a static food menu for a fictional restaurant named **Delicious Bites**.
 
-## 🖼️ Preview
-
-![Delicious Bites Preview](preview-image-url)
-
 ## 🚀 Features
 
 - Clean and attractive UI
