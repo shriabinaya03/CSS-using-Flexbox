@@ -24,13 +24,7 @@ A simple, elegant restaurant menu webpage designed using **HTML** and **CSS Flex
 └── style.css
 
 
-> *You can also combine HTML and CSS in one file if preferred.*
-
-## 📸 Screenshots
-
-| 📱 Mobile View | 💻 Desktop View |
-|----------------|-----------------|
-| *(Add a screenshot)* | *(Add a screenshot)* |
+> *You can also combine HTML and CSS in one file if preferred.*      
 
 ## 📝 How to Use
 
